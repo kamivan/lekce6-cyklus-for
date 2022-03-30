@@ -8,10 +8,9 @@ console.log('První příklad - vzestupná řada 0 - 10');
 //TADY NAPIS CYKLUS
 
 let i = 0;
-while(i<11) {
+while(i<=10) {
     console.log(i)
     i++;
-    
 }
 
 console.log('-------------------');
@@ -23,6 +22,12 @@ console.log('-------------------');
 console.log('Druhý příklad - rozdíl mezi <= a <');
 
 //TADY NAPIS CYKLUS
+let a = 0
+while(a<10) {
+    console.log(a)
+    a++;
+}
+
 
 console.log('-------------------');
 
