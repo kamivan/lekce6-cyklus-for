@@ -7,9 +7,14 @@ console.log('První příklad - vzestupná řada 0 - 10');
 
 //TADY NAPIS CYKLUS
 
+let i = 0;
+while(i<11) {
+    console.log(i)
+    i++;
+    
+}
+
 console.log('-------------------');
-
-
 
 // Druhý příklad - zkopíruj předchozí příklad
 // a vyzkoušej, jaký je rozdíl mezi <= a <
