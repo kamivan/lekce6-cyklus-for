@@ -38,4 +38,10 @@ console.log('Třetí příklad - sestupná řada 10 - 0');
 
 //TADY NAPIS CYKLUS
 
+let b = 10
+while(b>=0) {
+    console.log(b)
+    b--;
+}
+
 console.log('-------------------');
